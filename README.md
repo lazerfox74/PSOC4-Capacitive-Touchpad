@@ -7,10 +7,10 @@ Designed in KiCad.
 ## Images
 
 <p align="center">
-  <img src="images/kicadCapture.png" width="400" />
-  <img src="images/3dCapture.png" width="400" />
+  <img src="images/kicadCapture.PNG" width="400" />
+  <img src="images/3dCapture.PNG" width="400" />
   <br>
-  <img src="images/3dCaptureBack.png" width="400" />
+  <img src="images/3dCaptureBack.PNG" width="400" />
   <img src="images/1.jpg" width="400" />
   <br>
   <img src="images/2.jpg" width="400" />
