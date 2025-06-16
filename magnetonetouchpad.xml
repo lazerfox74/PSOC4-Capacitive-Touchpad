@@ -1,0 +1,2246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\Joshua\Documents\KiCad\myProjects\magnetonetouchpad\magnetonetouchpad\magnetonetouchpad.kicad_sch</source>
+    <date>30/07/2023 21:37:06</date>
+    <tool>Eeschema (6.0.10)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>magnetonetouchpad.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>1.0uF</value>
+      <footprint>Keebio-Parts2:C_0402</footprint>
+      <fields>
+        <field name="LCSC">C14445</field>
+      </fields>
+      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
+      <property name="LCSC" value="C14445"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a9b154bd-c734-400e-ab1b-e3bba1bea7be</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>1.0uF</value>
+      <footprint>Keebio-Parts2:C_0402</footprint>
+      <fields>
+        <field name="LCSC">C14445</field>
+      </fields>
+      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
+      <property name="LCSC" value="C14445"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>feb4cc45-e96a-4dd8-b374-90ddbb56f317</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>0.1uF</value>
+      <footprint>Keebio-Parts2:C_0402</footprint>
+      <fields>
+        <field name="LCSC">C1525</field>
+      </fields>
+      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4c918552-4b29-448a-9123-ec9798be5a2a</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>0.1uF</value>
+      <footprint>Keebio-Parts2:C_0402</footprint>
+      <fields>
+        <field name="LCSC">C1525</field>
+      </fields>
+      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>73e0ea19-0de3-4822-91c4-ec5f50601918</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>0.1uF</value>
+      <footprint>Keebio-Parts2:C_0402</footprint>
+      <fields>
+        <field name="LCSC">C1525</field>
+      </fields>
+      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a6092a45-a034-4d87-894e-ee1cfc63fe92</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>1.0uF</value>
+      <footprint>Keebio-Parts2:C_0402</footprint>
+      <fields>
+        <field name="LCSC">C14445</field>
+      </fields>
+      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
+      <property name="LCSC" value="C14445"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8a4b9eba-ef21-49b7-a8c1-8dd3d24fa3af</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>0.1uF</value>
+      <footprint>Keebio-Parts2:C_0402</footprint>
+      <fields>
+        <field name="LCSC">C1525</field>
+      </fields>
+      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>590fbd7d-0b03-4737-9291-e63322a484ec</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>470pF</value>
+      <footprint>Keebio-Parts2:C_0402</footprint>
+      <fields>
+        <field name="LCSC">C513551</field>
+      </fields>
+      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
+      <property name="LCSC" value="C513551"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>74685ff9-35a6-4801-ac32-d50ccd5afa9b</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>100nF</value>
+      <footprint>Keebio-Parts2:C_0402</footprint>
+      <fields>
+        <field name="LCSC">C1525</field>
+      </fields>
+      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2d96d53a-3928-459b-b305-a6e8bad3cdb4</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>470pF</value>
+      <footprint>Keebio-Parts2:C_0402</footprint>
+      <fields>
+        <field name="LCSC">C513551</field>
+      </fields>
+      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
+      <property name="LCSC" value="C513551"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>27b11581-69f8-4a8f-b540-5a8b7942413d</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>1.0uF</value>
+      <footprint>Keebio-Parts2:C_0402</footprint>
+      <fields>
+        <field name="LCSC">C14445</field>
+      </fields>
+      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
+      <property name="LCSC" value="C14445"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2a761d75-6259-4670-b9bc-97953e010916</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>100nf</value>
+      <footprint>Keebio-Parts2:C_0402</footprint>
+      <fields>
+        <field name="LCSC">C1525</field>
+      </fields>
+      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>039e06e7-58f3-4a47-bcd5-7aa1f555dcc9</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>100nf</value>
+      <footprint>Keebio-Parts2:C_0402</footprint>
+      <fields>
+        <field name="LCSC">C1525</field>
+      </fields>
+      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e95de769-1703-4e9e-a77c-4ee7519acf95</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>100nf</value>
+      <footprint>Keebio-Parts2:C_0402</footprint>
+      <fields>
+        <field name="LCSC">C1525</field>
+      </fields>
+      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ddc4de5f-4251-494b-b3e0-f9115c9c7496</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>100nf</value>
+      <footprint>Keebio-Parts2:C_0402</footprint>
+      <fields>
+        <field name="LCSC">C1525</field>
+      </fields>
+      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>88e674ea-f166-4a94-bc0c-97d255b54caf</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>100nf</value>
+      <footprint>Keebio-Parts2:C_0402</footprint>
+      <fields>
+        <field name="LCSC">C1525</field>
+      </fields>
+      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>95333e97-7b93-471b-aa9c-5226e878af18</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>100nf</value>
+      <footprint>Keebio-Parts2:C_0402</footprint>
+      <fields>
+        <field name="LCSC">C1525</field>
+      </fields>
+      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3014ad0e-7c2f-43b9-b9e5-b4d17ff6f235</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>100nf</value>
+      <footprint>Keebio-Parts2:C_0402</footprint>
+      <fields>
+        <field name="LCSC">C1525</field>
+      </fields>
+      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f061b3dd-188e-48ff-a274-2d68f23ac6d7</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>100nf</value>
+      <footprint>Keebio-Parts2:C_0402</footprint>
+      <fields>
+        <field name="LCSC">C1525</field>
+      </fields>
+      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ab16b9d2-310a-4424-a035-71b6d5cab7e4</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>100nf</value>
+      <footprint>Keebio-Parts2:C_0402</footprint>
+      <fields>
+        <field name="LCSC">C1525</field>
+      </fields>
+      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dba787a8-4a9a-41ea-9bec-b9afcd20c8fe</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>100nf</value>
+      <footprint>Keebio-Parts2:C_0402</footprint>
+      <fields>
+        <field name="LCSC">C1525</field>
+      </fields>
+      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7e181611-66f2-4a1c-b569-11babf2d7816</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>100nf</value>
+      <footprint>Keebio-Parts2:C_0402</footprint>
+      <fields>
+        <field name="LCSC">C1525</field>
+      </fields>
+      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7b240cc6-c110-40a1-acc0-a0f2ed7f4f58</tstamps>
+    </comp>
+    <comp ref="C23">
+      <value>100nf</value>
+      <footprint>Keebio-Parts2:C_0402</footprint>
+      <fields>
+        <field name="LCSC">C1525</field>
+      </fields>
+      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>18b90c4c-a563-4f48-8322-9c77847c2982</tstamps>
+    </comp>
+    <comp ref="C24">
+      <value>100nf</value>
+      <footprint>Keebio-Parts2:C_0402</footprint>
+      <fields>
+        <field name="LCSC">C1525</field>
+      </fields>
+      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eb43ba36-4b03-48a4-9ad4-7e8945b340e6</tstamps>
+    </comp>
+    <comp ref="C25">
+      <value>100nf</value>
+      <footprint>Keebio-Parts2:C_0402</footprint>
+      <fields>
+        <field name="LCSC">C1525</field>
+      </fields>
+      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2eda1795-c9c5-4faa-9814-c78d3ab2fb95</tstamps>
+    </comp>
+    <comp ref="FB1">
+      <value>330Ω@100MHz</value>
+      <footprint>Library:BEADC1608X95N</footprint>
+      <fields>
+        <field name="LCSC">C79913</field>
+      </fields>
+      <libsource lib="Device" part="FerriteBead" description="Ferrite bead"/>
+      <property name="LCSC" value="C79913"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>40b66a23-b66b-4bf5-b618-4727c7756d4c</tstamps>
+    </comp>
+    <comp ref="FB2">
+      <value>330Ω@100MHz</value>
+      <footprint>Library:BEADC1608X95N</footprint>
+      <fields>
+        <field name="LCSC">C79913</field>
+      </fields>
+      <libsource lib="Device" part="FerriteBead" description="Ferrite bead"/>
+      <property name="LCSC" value="C79913"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c895b339-88e5-4f72-a783-e1f81ffc40d1</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x05</value>
+      <footprint>Library:CONN-SMD_X8821WRS-05-9TSN</footprint>
+      <fields>
+        <field name="LCSC">C397435</field>
+      </fields>
+      <libsource lib="" part="Conn_01x05_1" description="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="LCSC" value="C397435"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e07c534a-29ec-4916-821e-d628f59961d1</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x02</value>
+      <footprint>Library:CONN-SMD_X8821WRS-02-9TSN</footprint>
+      <fields>
+        <field name="LCSC">C397432</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="LCSC" value="C397432"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>75c5913f-8bb4-4b20-85f6-9fee8b898b4a</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_01x05</value>
+      <footprint>Library:CONN-SMD_X8821WRS-05-9TSN</footprint>
+      <fields>
+        <field name="LCSC">C397435</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x05" description="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="LCSC" value="C397435"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a082d657-af7d-47c9-aaa6-deabe59d059d</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Conn_01x03</value>
+      <footprint>Library:CONN-SMD_X8821WRS-03-9TSN</footprint>
+      <fields>
+        <field name="LCSC">C397433</field>
+      </fields>
+      <libsource lib="" part="Conn_01x03_1" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="LCSC" value="C397433"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5492f905-72bb-4bd1-a0d9-42566724bb0d</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>Conn_01x03</value>
+      <footprint>Library:CONN-SMD_X8821WRS-03-9TSN</footprint>
+      <fields>
+        <field name="LCSC">C397433</field>
+      </fields>
+      <libsource lib="" part="Conn_01x03_2" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="LCSC" value="C397433"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0aa9d86a-37df-4654-8800-7ccef12b997c</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>Conn_01x03</value>
+      <footprint>Library:CONN-SMD_X8821WRS-03-9TSN</footprint>
+      <fields>
+        <field name="LCSC">C397433</field>
+      </fields>
+      <libsource lib="" part="Conn_01x03_3" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="LCSC" value="C397433"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0c32c0c0-dd06-4206-8f7b-ea2084b422e3</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>Conn_01x03</value>
+      <footprint>Library:CONN-SMD_X8821WRS-03-9TSN</footprint>
+      <fields>
+        <field name="LCSC">C397433</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x03" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="LCSC" value="C397433"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a54c0b87-260d-486f-849f-263300b7ffea</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>SK_6812_SIDE-A_RVS</value>
+      <footprint>Library:SK6812SIDE-A-RVS</footprint>
+      <fields>
+        <field name="LCSC">C2890037</field>
+      </fields>
+      <libsource lib="symbols" part="SK_6812_SIDE-A_RVS" description=""/>
+      <property name="LCSC" value="C2890037"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3a8e187c-7a96-4832-be5f-b46a1f0ec56c</tstamps>
+    </comp>
+    <comp ref="L2">
+      <value>SK_6812_SIDE-A_RVS</value>
+      <footprint>Library:SK6812SIDE-A-RVS</footprint>
+      <fields>
+        <field name="LCSC">C2890037</field>
+      </fields>
+      <libsource lib="symbols" part="SK_6812_SIDE-A_RVS" description=""/>
+      <property name="LCSC" value="C2890037"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>630e74c8-5b62-4538-9fe2-ee90abffc788</tstamps>
+    </comp>
+    <comp ref="L3">
+      <value>SK_6812_SIDE-A_RVS</value>
+      <footprint>Library:SK6812SIDE-A-RVS</footprint>
+      <fields>
+        <field name="LCSC">C2890037</field>
+      </fields>
+      <libsource lib="symbols" part="SK_6812_SIDE-A_RVS" description=""/>
+      <property name="LCSC" value="C2890037"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ff7d014d-1019-4957-915b-c1a5d00f7f6f</tstamps>
+    </comp>
+    <comp ref="L4">
+      <value>SK_6812_SIDE-A_RVS</value>
+      <footprint>Library:SK6812SIDE-A-RVS</footprint>
+      <fields>
+        <field name="LCSC">C2890037</field>
+      </fields>
+      <libsource lib="symbols" part="SK_6812_SIDE-A_RVS" description=""/>
+      <property name="LCSC" value="C2890037"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b9e7ca1b-27f9-4ef3-8899-7fd6991305a7</tstamps>
+    </comp>
+    <comp ref="L5">
+      <value>SK_6812_SIDE-A_RVS</value>
+      <footprint>Library:SK6812SIDE-A-RVS</footprint>
+      <fields>
+        <field name="LCSC">C2890037</field>
+      </fields>
+      <libsource lib="symbols" part="SK_6812_SIDE-A_RVS" description=""/>
+      <property name="LCSC" value="C2890037"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>52ef10ca-b954-4bfb-8609-9692d602a628</tstamps>
+    </comp>
+    <comp ref="L6">
+      <value>SK_6812_SIDE-A_RVS</value>
+      <footprint>Library:SK6812SIDE-A-RVS</footprint>
+      <fields>
+        <field name="LCSC">C2890037</field>
+      </fields>
+      <libsource lib="symbols" part="SK_6812_SIDE-A_RVS" description=""/>
+      <property name="LCSC" value="C2890037"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2d67f771-67f9-4e5d-bbdf-6da9828fba63</tstamps>
+    </comp>
+    <comp ref="L7">
+      <value>SK_6812_SIDE-A_RVS</value>
+      <footprint>Library:SK6812SIDE-A-RVS</footprint>
+      <fields>
+        <field name="LCSC">C2890037</field>
+      </fields>
+      <libsource lib="symbols" part="SK_6812_SIDE-A_RVS" description=""/>
+      <property name="LCSC" value="C2890037"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7f7877ce-eaa3-40d6-9111-80eece1a0f9d</tstamps>
+    </comp>
+    <comp ref="L8">
+      <value>SK_6812_SIDE-A_RVS</value>
+      <footprint>Library:SK6812SIDE-A-RVS</footprint>
+      <fields>
+        <field name="LCSC">C2890037</field>
+      </fields>
+      <libsource lib="symbols" part="SK_6812_SIDE-A_RVS" description=""/>
+      <property name="LCSC" value="C2890037"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5f96f87b-96a0-4413-8697-619cbcad5be6</tstamps>
+    </comp>
+    <comp ref="L9">
+      <value>SK_6812_SIDE-A_RVS</value>
+      <footprint>Library:SK6812SIDE-A-RVS</footprint>
+      <fields>
+        <field name="LCSC">C2890037</field>
+      </fields>
+      <libsource lib="symbols" part="SK_6812_SIDE-A_RVS" description=""/>
+      <property name="LCSC" value="C2890037"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>db7aa985-d18f-4444-b6bd-990d66fef63a</tstamps>
+    </comp>
+    <comp ref="L10">
+      <value>SK_6812_SIDE-A_RVS</value>
+      <footprint>Library:SK6812SIDE-A-RVS</footprint>
+      <fields>
+        <field name="LCSC">C2890037</field>
+      </fields>
+      <libsource lib="symbols" part="SK_6812_SIDE-A_RVS" description=""/>
+      <property name="LCSC" value="C2890037"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aab0274b-03f9-4a1b-95fe-3062d6b31c0d</tstamps>
+    </comp>
+    <comp ref="L11">
+      <value>SK_6812_SIDE-A_RVS</value>
+      <footprint>Library:SK6812SIDE-A-RVS</footprint>
+      <fields>
+        <field name="LCSC">C2890037</field>
+      </fields>
+      <libsource lib="symbols" part="SK_6812_SIDE-A_RVS" description=""/>
+      <property name="LCSC" value="C2890037"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>899e09b1-cba3-4a1a-9e35-21cf51dbe115</tstamps>
+    </comp>
+    <comp ref="L12">
+      <value>SK_6812_SIDE-A_RVS</value>
+      <footprint>Library:SK6812SIDE-A-RVS</footprint>
+      <fields>
+        <field name="LCSC">C2890037</field>
+      </fields>
+      <libsource lib="symbols" part="SK_6812_SIDE-A_RVS" description=""/>
+      <property name="LCSC" value="C2890037"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d2dc8a91-7acc-4925-bc63-813411039b08</tstamps>
+    </comp>
+    <comp ref="L13">
+      <value>SK_6812_SIDE-A_RVS</value>
+      <footprint>Library:SK6812SIDE-A-RVS</footprint>
+      <fields>
+        <field name="LCSC">C2890037</field>
+      </fields>
+      <libsource lib="symbols" part="SK_6812_SIDE-A_RVS" description=""/>
+      <property name="LCSC" value="C2890037"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0f8f9aa4-9b42-4a1f-97bd-9ad09a52a364</tstamps>
+    </comp>
+    <comp ref="L14">
+      <value>SK_6812_SIDE-A_RVS</value>
+      <footprint>Library:SK6812SIDE-A-RVS</footprint>
+      <fields>
+        <field name="LCSC">C2890037</field>
+      </fields>
+      <libsource lib="symbols" part="SK_6812_SIDE-A_RVS" description=""/>
+      <property name="LCSC" value="C2890037"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>14603dd7-cab5-4e51-bad4-92c4ef6a4210</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>560ohm</value>
+      <footprint>Keebio-Parts2:R_0402</footprint>
+      <fields>
+        <field name="LCSC">C186320</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C186320"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>074f5dfd-9d75-4841-85ca-7302ec79c6b8</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>560ohm</value>
+      <footprint>Keebio-Parts2:R_0402</footprint>
+      <fields>
+        <field name="LCSC">C186320</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C186320"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5642b023-447e-4545-91d8-0982cd65daef</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>560ohm</value>
+      <footprint>Keebio-Parts2:R_0402</footprint>
+      <fields>
+        <field name="LCSC">C186320</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C186320"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e1fcaeb1-4393-41d6-9812-d4ed9886120f</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>560ohm</value>
+      <footprint>Keebio-Parts2:R_0402</footprint>
+      <fields>
+        <field name="LCSC">C186320</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C186320"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fa776528-a358-4d89-a792-0af076c40ee0</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>560ohm</value>
+      <footprint>Keebio-Parts2:R_0402</footprint>
+      <fields>
+        <field name="LCSC">C186320</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C186320"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4c673278-35a2-4cb1-8a2f-da533d4cf93e</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>560ohm</value>
+      <footprint>Keebio-Parts2:R_0402</footprint>
+      <fields>
+        <field name="LCSC">C186320</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C186320"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ff74d570-f6ee-4f19-bc69-d26213c0dc74</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>560ohm</value>
+      <footprint>Keebio-Parts2:R_0402</footprint>
+      <fields>
+        <field name="LCSC">C186320</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C186320"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a2a96abb-50de-4332-9ba9-e67b28109a73</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>560ohm</value>
+      <footprint>Keebio-Parts2:R_0402</footprint>
+      <fields>
+        <field name="LCSC">C186320</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C186320"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7ca3e4d4-cec0-457f-9ba6-585170cd77e5</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>560ohm</value>
+      <footprint>Keebio-Parts2:R_0402</footprint>
+      <fields>
+        <field name="LCSC">C186320</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C186320"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>54b765dc-c5dc-448f-8e54-524694bb8cc2</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>560ohm</value>
+      <footprint>Keebio-Parts2:R_0402</footprint>
+      <fields>
+        <field name="LCSC">C186320</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C186320"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>52d4da08-4dc5-43af-8b69-ec50bb3fc5ad</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>560ohm</value>
+      <footprint>Keebio-Parts2:R_0402</footprint>
+      <fields>
+        <field name="LCSC">C186320</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C186320"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fc82c25b-6314-43d0-9818-67e4b595659c</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>560ohm</value>
+      <footprint>Keebio-Parts2:R_0402</footprint>
+      <fields>
+        <field name="LCSC">C186320</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C186320"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>755b2ca9-0bac-4682-9f73-3ae6fef99691</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>560ohm</value>
+      <footprint>Keebio-Parts2:R_0402</footprint>
+      <fields>
+        <field name="LCSC">C186320</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C186320"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4544d53b-d2db-4b2f-b1f0-fbf4d5f39be7</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>560ohm</value>
+      <footprint>Keebio-Parts2:R_0402</footprint>
+      <fields>
+        <field name="LCSC">C186320</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C186320"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c0410912-f73b-446f-8c6e-69c8f1641535</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>560ohm</value>
+      <footprint>Keebio-Parts2:R_0402</footprint>
+      <fields>
+        <field name="LCSC">C186320</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C186320"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>60814ffe-2e54-4477-be1e-57dc19537969</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>560ohm</value>
+      <footprint>Keebio-Parts2:R_0402</footprint>
+      <fields>
+        <field name="LCSC">C186320</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C186320"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>849e76b3-fc23-4bb0-9007-4ed76f91a654</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>560ohm</value>
+      <footprint>Keebio-Parts2:R_0402</footprint>
+      <fields>
+        <field name="LCSC">C186320</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C186320"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dc1ce81a-35b6-48ee-a3d5-adea07bde78a</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>560ohm</value>
+      <footprint>Keebio-Parts2:R_0402</footprint>
+      <fields>
+        <field name="LCSC">C186320</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C186320"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>460651aa-42c1-4f2f-b20b-bf383bed7308</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>560ohm</value>
+      <footprint>Keebio-Parts2:R_0402</footprint>
+      <fields>
+        <field name="LCSC">C186320</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C186320"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>87ea9bea-e859-42b5-97e9-5822f3c14726</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>560ohm</value>
+      <footprint>Keebio-Parts2:R_0402</footprint>
+      <fields>
+        <field name="LCSC">C186320</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C186320"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7e584c46-3308-4dd2-8c1e-4c5bf2f433c2</tstamps>
+    </comp>
+    <comp ref="R23">
+      <value>560ohm</value>
+      <footprint>Keebio-Parts2:R_0402</footprint>
+      <fields>
+        <field name="LCSC">C186320</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C186320"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c5d29d9e-a0c5-4885-a5f3-170ba5cad5f4</tstamps>
+    </comp>
+    <comp ref="R24">
+      <value>560ohm</value>
+      <footprint>Keebio-Parts2:R_0402</footprint>
+      <fields>
+        <field name="LCSC">C186320</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C186320"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>591e6b2f-62cc-4ff9-9004-b3512e0df7e9</tstamps>
+    </comp>
+    <comp ref="R25">
+      <value>560ohm</value>
+      <footprint>Keebio-Parts2:R_0402</footprint>
+      <fields>
+        <field name="LCSC">C186320</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C186320"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0abd9e8f-7375-426f-8b5a-7f30f5d40e19</tstamps>
+    </comp>
+    <comp ref="R26">
+      <value>560ohm</value>
+      <footprint>Keebio-Parts2:R_0402</footprint>
+      <fields>
+        <field name="LCSC">C186320</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C186320"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>08f8fdcf-7ece-43bd-9eaf-d2fdab49084c</tstamps>
+    </comp>
+    <comp ref="R27">
+      <value>560ohm</value>
+      <footprint>Keebio-Parts2:R_0402</footprint>
+      <fields>
+        <field name="LCSC">C186320</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C186320"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>41918f78-6c28-4d02-b803-28b7f812f77d</tstamps>
+    </comp>
+    <comp ref="R28">
+      <value>560ohm</value>
+      <footprint>Keebio-Parts2:R_0402</footprint>
+      <fields>
+        <field name="LCSC">C186320</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C186320"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>07c972a0-8e50-484d-8e53-5ef3d59da6b8</tstamps>
+    </comp>
+    <comp ref="R29">
+      <value>560ohm</value>
+      <footprint>Keebio-Parts2:R_0402</footprint>
+      <fields>
+        <field name="LCSC">C186320</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C186320"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>589331c1-46f6-42e9-81af-c9ec0f10568d</tstamps>
+    </comp>
+    <comp ref="R30">
+      <value>560ohm</value>
+      <footprint>Keebio-Parts2:R_0402</footprint>
+      <fields>
+        <field name="LCSC">C186320</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C186320"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d6f17db2-3e1f-41b8-9a0a-379007b2f611</tstamps>
+    </comp>
+    <comp ref="R31">
+      <value>330ohm</value>
+      <footprint>Keebio-Parts2:R_0402</footprint>
+      <fields>
+        <field name="LCSC">C2689453</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C2689453"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>74bdd0ec-f8a2-405f-9c73-bec8034065d5</tstamps>
+    </comp>
+    <comp ref="R32">
+      <value>330ohm</value>
+      <footprint>Keebio-Parts2:R_0402</footprint>
+      <fields>
+        <field name="LCSC">C2689453</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C2689453"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>04b573f7-9797-4f0e-acfd-e48860f75559</tstamps>
+    </comp>
+    <comp ref="R33">
+      <value>330ohm</value>
+      <footprint>Keebio-Parts2:R_0402</footprint>
+      <fields>
+        <field name="LCSC">C2689453</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C2689453"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ee3a0426-c5f1-49cc-b622-7a829c9cbde5</tstamps>
+    </comp>
+    <comp ref="R34">
+      <value>330ohm</value>
+      <footprint>Keebio-Parts2:R_0402</footprint>
+      <fields>
+        <field name="LCSC">C2689453</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C2689453"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7000e87a-6505-41d0-b526-ae5942ba6f83</tstamps>
+    </comp>
+    <comp ref="T1">
+      <value>TS34031</value>
+      <footprint>Library:CONN-SMD_TS34031</footprint>
+      <fields>
+        <field name="LCSC">C481441</field>
+      </fields>
+      <libsource lib="symbols" part="TS34031" description=""/>
+      <property name="LCSC" value="C481441"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0f67b688-8c94-4adc-9cb9-83eb7456955b</tstamps>
+    </comp>
+    <comp ref="T2">
+      <value>Touchpad</value>
+      <footprint>Library:row_coll</footprint>
+      <libsource lib="symbols" part="Touchpad" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>deb8b294-1ef5-400c-9fde-0002f48cb4c6</tstamps>
+    </comp>
+    <comp ref="T3">
+      <value>Touchpad</value>
+      <footprint>Library:row_coll</footprint>
+      <libsource lib="symbols" part="Touchpad" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fa025c81-0096-4864-95b1-dfd9424d5963</tstamps>
+    </comp>
+    <comp ref="T4">
+      <value>Touchpad</value>
+      <footprint>Library:row_coll</footprint>
+      <libsource lib="symbols" part="Touchpad" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>392d847d-21d1-4431-8a07-13f2d40ee4c1</tstamps>
+    </comp>
+    <comp ref="T5">
+      <value>Touchpad</value>
+      <footprint>Library:row_coll</footprint>
+      <libsource lib="symbols" part="Touchpad" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4c2557ef-c025-4ba7-b635-a25793ab5849</tstamps>
+    </comp>
+    <comp ref="T6">
+      <value>Touchpad</value>
+      <footprint>Library:row_coll</footprint>
+      <libsource lib="symbols" part="Touchpad" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>576ec2a2-03ec-4f27-828a-67fd83e46c77</tstamps>
+    </comp>
+    <comp ref="T7">
+      <value>Touchpad</value>
+      <footprint>Library:row_coll</footprint>
+      <libsource lib="symbols" part="Touchpad" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>537148bf-8557-454b-9ee4-2e7c59093136</tstamps>
+    </comp>
+    <comp ref="T8">
+      <value>Touchpad</value>
+      <footprint>Library:row_coll</footprint>
+      <libsource lib="symbols" part="Touchpad" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3c9fe4c0-f696-42a7-abe7-fa046466d407</tstamps>
+    </comp>
+    <comp ref="T9">
+      <value>Touchpad</value>
+      <footprint>Library:row_coll</footprint>
+      <libsource lib="symbols" part="Touchpad" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6d0e4447-a42f-41ea-8dcb-19288ca6735a</tstamps>
+    </comp>
+    <comp ref="T10">
+      <value>Touchpad</value>
+      <footprint>Library:row_coll</footprint>
+      <libsource lib="symbols" part="Touchpad" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8f584e33-bd6f-4162-98ae-aa55b138fb75</tstamps>
+    </comp>
+    <comp ref="T11">
+      <value>Touchpad</value>
+      <footprint>Library:row_coll</footprint>
+      <libsource lib="symbols" part="Touchpad" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ab0df238-3844-4018-af97-c71f34113ecb</tstamps>
+    </comp>
+    <comp ref="T12">
+      <value>Touchpad</value>
+      <footprint>Library:row_coll</footprint>
+      <libsource lib="symbols" part="Touchpad" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d0cc269c-b2d6-4b12-b5a2-27f5da194c02</tstamps>
+    </comp>
+    <comp ref="T13">
+      <value>Touchpad</value>
+      <footprint>Library:row_coll</footprint>
+      <libsource lib="symbols" part="Touchpad" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>baae0a43-29d7-4f47-875c-e2adc8c88ce7</tstamps>
+    </comp>
+    <comp ref="T14">
+      <value>Touchpad</value>
+      <footprint>Library:row_coll</footprint>
+      <libsource lib="symbols" part="Touchpad" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0706450b-d370-4c75-a2c3-efc9750760ef</tstamps>
+    </comp>
+    <comp ref="T15">
+      <value>Touchpad</value>
+      <footprint>Library:row_coll</footprint>
+      <libsource lib="symbols" part="Touchpad" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e9766b3e-5dcd-4050-aabb-6c4f033c6dd9</tstamps>
+    </comp>
+    <comp ref="T17">
+      <value>Touchpad</value>
+      <footprint>Library:row_coll</footprint>
+      <libsource lib="symbols" part="Touchpad" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>07553dda-4bd0-498e-815c-45c2f456cbf4</tstamps>
+    </comp>
+    <comp ref="T18">
+      <value>Touchpad</value>
+      <footprint>Library:row_coll</footprint>
+      <libsource lib="symbols" part="Touchpad" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>29a00966-5cc3-4f7b-96c5-45aa0e9d4aa8</tstamps>
+    </comp>
+    <comp ref="T19">
+      <value>Touchpad</value>
+      <footprint>Library:row_coll</footprint>
+      <libsource lib="symbols" part="Touchpad" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>02ba4e76-7908-484b-bf9e-eadae826882a</tstamps>
+    </comp>
+    <comp ref="T20">
+      <value>Touchpad</value>
+      <footprint>Library:row_coll</footprint>
+      <libsource lib="symbols" part="Touchpad" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>333d52f9-e100-40cb-881e-64d76147578f</tstamps>
+    </comp>
+    <comp ref="T21">
+      <value>Touchpad</value>
+      <footprint>Library:row_coll</footprint>
+      <libsource lib="symbols" part="Touchpad" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>234de83d-4b52-43be-a619-b37758a5d9df</tstamps>
+    </comp>
+    <comp ref="T22">
+      <value>Touchpad</value>
+      <footprint>Library:row_coll</footprint>
+      <libsource lib="symbols" part="Touchpad" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9e68e554-6b25-471f-8932-c8d16fecee19</tstamps>
+    </comp>
+    <comp ref="T23">
+      <value>Touchpad</value>
+      <footprint>Library:row_coll</footprint>
+      <libsource lib="symbols" part="Touchpad" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>49463be0-a9a1-4845-afe8-62eb6247537a</tstamps>
+    </comp>
+    <comp ref="T24">
+      <value>Touchpad</value>
+      <footprint>Library:row_coll</footprint>
+      <libsource lib="symbols" part="Touchpad" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6fbc28c8-46a8-4cef-b8b7-f6d7375863c2</tstamps>
+    </comp>
+    <comp ref="T25">
+      <value>Touchpad</value>
+      <footprint>Library:row_coll</footprint>
+      <libsource lib="symbols" part="Touchpad" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1bdb31e6-d213-49c7-a114-ec732733f2d4</tstamps>
+    </comp>
+    <comp ref="T26">
+      <value>Touchpad</value>
+      <footprint>Library:row_coll</footprint>
+      <libsource lib="symbols" part="Touchpad" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d0eef9b2-5d7e-4c08-999c-06cbd7fcce65</tstamps>
+    </comp>
+    <comp ref="T27">
+      <value>Touchpad</value>
+      <footprint>Library:row_coll</footprint>
+      <libsource lib="symbols" part="Touchpad" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f12ebe3e-c791-4db2-af79-4ecef7c2bb38</tstamps>
+    </comp>
+    <comp ref="T28">
+      <value>Touchpad</value>
+      <footprint>Library:row_coll</footprint>
+      <libsource lib="symbols" part="Touchpad" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fb9995e0-9fe6-4932-82f2-caee9f527f46</tstamps>
+    </comp>
+    <comp ref="T29">
+      <value>Touchpad</value>
+      <footprint>Library:row_coll</footprint>
+      <libsource lib="symbols" part="Touchpad" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8d0ea5dc-d61d-4adf-b0b2-afbcbcb77421</tstamps>
+    </comp>
+    <comp ref="T30">
+      <value>Touchpad</value>
+      <footprint>Library:row_coll</footprint>
+      <libsource lib="symbols" part="Touchpad" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fbd38c39-eb2e-4088-9668-7e5a98eb3028</tstamps>
+    </comp>
+    <comp ref="T33">
+      <value>TS34031</value>
+      <footprint>Library:CONN-SMD_TS34031</footprint>
+      <fields>
+        <field name="LCSC">C481441</field>
+      </fields>
+      <libsource lib="symbols" part="TS34031" description=""/>
+      <property name="LCSC" value="C481441"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>73e25420-659a-4ee1-b0d3-464cd349b901</tstamps>
+    </comp>
+    <comp ref="T35">
+      <value>TS34031</value>
+      <footprint>Library:CONN-SMD_TS34031</footprint>
+      <fields>
+        <field name="LCSC">C481441</field>
+      </fields>
+      <libsource lib="symbols" part="TS34031" description=""/>
+      <property name="LCSC" value="C481441"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e52136fe-0f8b-44c2-af97-e95deff8a795</tstamps>
+    </comp>
+    <comp ref="T37">
+      <value>TS34031</value>
+      <footprint>Library:CONN-SMD_TS34031</footprint>
+      <fields>
+        <field name="LCSC">C481441</field>
+      </fields>
+      <libsource lib="symbols" part="TS34031" description=""/>
+      <property name="LCSC" value="C481441"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>339cb548-4bd2-4af8-b23d-0407c15d63d2</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>CY8C4146AZI-S433</value>
+      <footprint>Library:QFP50P900X900X160-48N</footprint>
+      <fields>
+        <field name="LCSC">C458125</field>
+      </fields>
+      <libsource lib="symbols" part="CY8C4146AZI-S433" description=""/>
+      <property name="LCSC" value="C458125"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="magnetonetouchpad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ab1a3747-2299-4cee-ab1e-6e3b7583dac3</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="" part="Conn_01x03_1">
+      <description>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J4</field>
+        <field name="Value">Conn_01x03</field>
+        <field name="Footprint">Library:CONN-SMD_X8821WRS-03-9TSN</field>
+        <field name="Datasheet">~</field>
+        <field name="LCSC">C397433</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="" type="no_connect"/>
+        <pin num="5" name="" type="no_connect"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="Conn_01x03_2">
+      <description>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J5</field>
+        <field name="Value">Conn_01x03</field>
+        <field name="Footprint">Library:CONN-SMD_X8821WRS-03-9TSN</field>
+        <field name="Datasheet">~</field>
+        <field name="LCSC">C397433</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="" type="no_connect"/>
+        <pin num="5" name="" type="no_connect"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="Conn_01x03_3">
+      <description>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J6</field>
+        <field name="Value">Conn_01x03_3</field>
+        <field name="Footprint">Library:CONN-SMD_X8821WRS-03-9TSN</field>
+        <field name="Datasheet">~</field>
+        <field name="LCSC">C397433</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="" type="no_connect"/>
+        <pin num="5" name="" type="no_connect"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="Conn_01x05_1">
+      <description>Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J1</field>
+        <field name="Value">Conn_01x05_1</field>
+        <field name="Footprint">Library:CONN-SMD_X8821WRS-05-9TSN</field>
+        <field name="Datasheet">~</field>
+        <field name="LCSC">C397435</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="" type="no_connect"/>
+        <pin num="7" name="" type="no_connect"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x02">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J2</field>
+        <field name="Value">Conn_01x02</field>
+        <field name="Footprint">Library:CONN-SMD_X8821WRS-02-9TSN</field>
+        <field name="Datasheet">~</field>
+        <field name="LCSC">C397432</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="" type="no_connect"/>
+        <pin num="4" name="" type="no_connect"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x03">
+      <description>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J7</field>
+        <field name="Value">Conn_01x03</field>
+        <field name="Footprint">Library:CONN-SMD_X8821WRS-03-9TSN</field>
+        <field name="Datasheet">~</field>
+        <field name="LCSC">C397433</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="" type="no_connect"/>
+        <pin num="5" name="" type="no_connect"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x05">
+      <description>Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J3</field>
+        <field name="Value">Conn_01x05</field>
+        <field name="Footprint">Library:CONN-SMD_X8821WRS-05-9TSN</field>
+        <field name="Datasheet">~</field>
+        <field name="LCSC">C397435</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="" type="no_connect"/>
+        <pin num="7" name="" type="no_connect"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="FerriteBead">
+      <description>Ferrite bead</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+        <fp>*Ferrite*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">FB</field>
+        <field name="Value">FerriteBead</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="pspice" part="C">
+      <description>Capacitor symbol for simulation only</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="symbols" part="CY8C4146AZI-S433">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">CY8C4146AZI-S433</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="bidirectional"/>
+        <pin num="2" name="" type="bidirectional"/>
+        <pin num="3" name="" type="bidirectional"/>
+        <pin num="4" name="" type="bidirectional"/>
+        <pin num="5" name="" type="bidirectional"/>
+        <pin num="6" name="" type="bidirectional"/>
+        <pin num="7" name="" type="bidirectional"/>
+        <pin num="8" name="" type="bidirectional"/>
+        <pin num="9" name="" type="bidirectional"/>
+        <pin num="10" name="VSSD" type="power_in"/>
+        <pin num="11" name="" type="bidirectional"/>
+        <pin num="12" name="" type="bidirectional"/>
+        <pin num="13" name="" type="bidirectional"/>
+        <pin num="14" name="SWDIO" type="bidirectional"/>
+        <pin num="15" name="" type="bidirectional"/>
+        <pin num="16" name="SWDCLK" type="bidirectional"/>
+        <pin num="17" name="" type="bidirectional"/>
+        <pin num="18" name="" type="bidirectional"/>
+        <pin num="19" name="" type="bidirectional"/>
+        <pin num="20" name="" type="bidirectional"/>
+        <pin num="21" name="VDDD" type="power_in"/>
+        <pin num="22" name="" type="bidirectional"/>
+        <pin num="23" name="" type="bidirectional"/>
+        <pin num="24" name="P4[2]" type="bidirectional"/>
+        <pin num="25" name="P4[3]" type="bidirectional"/>
+        <pin num="26" name="" type="bidirectional"/>
+        <pin num="27" name="" type="bidirectional"/>
+        <pin num="28" name="P0[0]" type="bidirectional"/>
+        <pin num="29" name="P0[1]" type="bidirectional"/>
+        <pin num="30" name="P0[2]" type="bidirectional"/>
+        <pin num="31" name="" type="bidirectional"/>
+        <pin num="32" name="" type="bidirectional"/>
+        <pin num="33" name="" type="bidirectional"/>
+        <pin num="34" name="" type="bidirectional"/>
+        <pin num="35" name="" type="bidirectional"/>
+        <pin num="36" name="XRES" type="bidirectional"/>
+        <pin num="37" name="VCCD" type="power_in"/>
+        <pin num="38" name="VSSD_1" type="power_in"/>
+        <pin num="39" name="VDDD_1" type="power_in"/>
+        <pin num="40" name="VDDA" type="power_in"/>
+        <pin num="41" name="VSSA" type="power_in"/>
+        <pin num="42" name="" type="bidirectional"/>
+        <pin num="43" name="" type="bidirectional"/>
+        <pin num="44" name="" type="bidirectional"/>
+        <pin num="45" name="" type="bidirectional"/>
+        <pin num="46" name="" type="bidirectional"/>
+        <pin num="47" name="" type="bidirectional"/>
+        <pin num="48" name="" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="symbols" part="SK_6812_SIDE-A_RVS">
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">SK_6812_SIDE-A_RVS</field>
+      </fields>
+      <pins>
+        <pin num="1" name="DIN" type="input"/>
+        <pin num="2" name="VDD" type="power_in"/>
+        <pin num="3" name="DOUT" type="output"/>
+        <pin num="4" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="symbols" part="TS34031">
+      <fields>
+        <field name="Reference">T</field>
+        <field name="Value">TS34031</field>
+        <field name="LCSC">C481441</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="no_connect"/>
+        <pin num="2" name="" type="no_connect"/>
+        <pin num="3" name="" type="no_connect"/>
+        <pin num="4" name="" type="no_connect"/>
+      </pins>
+    </libpart>
+    <libpart lib="symbols" part="Touchpad">
+      <fields>
+        <field name="Reference">T</field>
+        <field name="Value">Touchpad</field>
+      </fields>
+      <pins>
+        <pin num="1" name="In" type="bidirectional"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector_Generic">
+      <uri>D:\kiCad\6.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>D:\kiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="pspice">
+      <uri>D:\kiCad\6.0\share\kicad\symbols\/pspice.kicad_sym</uri>
+    </library>
+    <library logical="symbols">
+      <uri>C:\Users\Joshua\Documents\KiCad\myProjects\magnetonetouchpad\magnetonetouchpad/projsymbols/symbols.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5V">
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J5" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="L1" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="L2" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="L3" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="L4" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="L5" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="L6" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="L7" pin="2" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="2" name="+5VA">
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="C23" pin="1" pintype="passive"/>
+      <node ref="C24" pin="1" pintype="passive"/>
+      <node ref="C25" pin="1" pintype="passive"/>
+      <node ref="J6" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J7" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="L10" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="L11" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="L12" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="L13" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="L14" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="L8" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="L9" pin="2" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="3" name="COL0">
+      <node ref="R23" pin="1" pintype="passive"/>
+      <node ref="T30" pin="1" pinfunction="In" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="COL1">
+      <node ref="R24" pin="1" pintype="passive"/>
+      <node ref="T29" pin="1" pinfunction="In" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="COL2">
+      <node ref="R25" pin="1" pintype="passive"/>
+      <node ref="T28" pin="1" pinfunction="In" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="COL3">
+      <node ref="R26" pin="1" pintype="passive"/>
+      <node ref="T27" pin="1" pinfunction="In" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="COL4">
+      <node ref="R22" pin="1" pintype="passive"/>
+      <node ref="T26" pin="1" pinfunction="In" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="COL5">
+      <node ref="R21" pin="1" pintype="passive"/>
+      <node ref="T25" pin="1" pinfunction="In" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="COL6">
+      <node ref="R20" pin="1" pintype="passive"/>
+      <node ref="T24" pin="1" pinfunction="In" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="COL7">
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="T23" pin="1" pinfunction="In" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="COL8">
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="T22" pin="1" pinfunction="In" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="COL9">
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="T21" pin="1" pinfunction="In" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="COL10">
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="T20" pin="1" pinfunction="In" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="COL11">
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="T19" pin="1" pinfunction="In" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="COL12">
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="T18" pin="1" pinfunction="In" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="COL13">
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="T17" pin="1" pinfunction="In" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="DIN">
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="L1" pin="1" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="18" name="DIN2">
+      <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="L8" pin="1" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="19" name="DOUT">
+      <node ref="J5" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="L7" pin="3" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="20" name="DOUT2">
+      <node ref="J7" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="L14" pin="3" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="21" name="GND">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="J1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J3" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="VSSD" pintype="power_in"/>
+      <node ref="U1" pin="38" pinfunction="VSSD_1" pintype="power_in"/>
+      <node ref="U1" pin="41" pinfunction="VSSA" pintype="power_in"/>
+    </net>
+    <net code="22" name="GND1">
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="J4" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="L1" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="L2" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="L3" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="L4" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="L5" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="L6" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="L7" pin="4" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="23" name="GND2">
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="C24" pin="2" pintype="passive"/>
+      <node ref="C25" pin="2" pintype="passive"/>
+      <node ref="J6" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J7" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="L10" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="L11" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="L12" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="L13" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="L14" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="L8" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="L9" pin="4" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="24" name="Net-(C6-Pad1)">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="U1" pin="37" pinfunction="VCCD" pintype="power_in"/>
+    </net>
+    <net code="25" name="Net-(C8-Pad1)">
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="U1" pin="25" pinfunction="P4[3]" pintype="bidirectional"/>
+    </net>
+    <net code="26" name="Net-(C10-Pad1)">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="U1" pin="24" pinfunction="P4[2]" pintype="bidirectional"/>
+    </net>
+    <net code="27" name="Net-(L1-Pad3)">
+      <node ref="L1" pin="3" pinfunction="DOUT" pintype="output"/>
+      <node ref="L2" pin="1" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="28" name="Net-(L2-Pad3)">
+      <node ref="L2" pin="3" pinfunction="DOUT" pintype="output"/>
+      <node ref="L3" pin="1" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="29" name="Net-(L3-Pad3)">
+      <node ref="L3" pin="3" pinfunction="DOUT" pintype="output"/>
+      <node ref="L4" pin="1" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="30" name="Net-(L4-Pad3)">
+      <node ref="L4" pin="3" pinfunction="DOUT" pintype="output"/>
+      <node ref="L5" pin="1" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="31" name="Net-(L5-Pad3)">
+      <node ref="L5" pin="3" pinfunction="DOUT" pintype="output"/>
+      <node ref="L6" pin="1" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="32" name="Net-(L6-Pad3)">
+      <node ref="L6" pin="3" pinfunction="DOUT" pintype="output"/>
+      <node ref="L7" pin="1" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="33" name="Net-(L8-Pad3)">
+      <node ref="L8" pin="3" pinfunction="DOUT" pintype="output"/>
+      <node ref="L9" pin="1" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="34" name="Net-(L10-Pad1)">
+      <node ref="L10" pin="1" pinfunction="DIN" pintype="input"/>
+      <node ref="L9" pin="3" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="35" name="Net-(L10-Pad3)">
+      <node ref="L10" pin="3" pinfunction="DOUT" pintype="output"/>
+      <node ref="L11" pin="1" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="36" name="Net-(L11-Pad3)">
+      <node ref="L11" pin="3" pinfunction="DOUT" pintype="output"/>
+      <node ref="L12" pin="1" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="37" name="Net-(L12-Pad3)">
+      <node ref="L12" pin="3" pinfunction="DOUT" pintype="output"/>
+      <node ref="L13" pin="1" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="38" name="Net-(L13-Pad3)">
+      <node ref="L13" pin="3" pinfunction="DOUT" pintype="output"/>
+      <node ref="L14" pin="1" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="39" name="Net-(R31-Pad2)">
+      <node ref="R31" pin="2" pintype="passive"/>
+      <node ref="U1" pin="45" pintype="bidirectional"/>
+    </net>
+    <net code="40" name="Net-(R32-Pad2)">
+      <node ref="R32" pin="2" pintype="passive"/>
+      <node ref="U1" pin="44" pintype="bidirectional"/>
+    </net>
+    <net code="41" name="Net-(R33-Pad2)">
+      <node ref="R33" pin="2" pintype="passive"/>
+      <node ref="U1" pin="43" pintype="bidirectional"/>
+    </net>
+    <net code="42" name="Net-(R34-Pad2)">
+      <node ref="R34" pin="2" pintype="passive"/>
+      <node ref="U1" pin="42" pintype="bidirectional"/>
+    </net>
+    <net code="43" name="ROW0">
+      <node ref="R30" pin="1" pintype="passive"/>
+      <node ref="T2" pin="1" pinfunction="In" pintype="bidirectional"/>
+    </net>
+    <net code="44" name="ROW1">
+      <node ref="R29" pin="1" pintype="passive"/>
+      <node ref="T3" pin="1" pinfunction="In" pintype="bidirectional"/>
+    </net>
+    <net code="45" name="ROW2">
+      <node ref="R28" pin="1" pintype="passive"/>
+      <node ref="T4" pin="1" pinfunction="In" pintype="bidirectional"/>
+    </net>
+    <net code="46" name="ROW3">
+      <node ref="R27" pin="1" pintype="passive"/>
+      <node ref="T5" pin="1" pinfunction="In" pintype="bidirectional"/>
+    </net>
+    <net code="47" name="ROW4">
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="T6" pin="1" pinfunction="In" pintype="bidirectional"/>
+    </net>
+    <net code="48" name="ROW5">
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="T7" pin="1" pinfunction="In" pintype="bidirectional"/>
+    </net>
+    <net code="49" name="ROW6">
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="T8" pin="1" pinfunction="In" pintype="bidirectional"/>
+    </net>
+    <net code="50" name="ROW7">
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="T9" pin="1" pinfunction="In" pintype="bidirectional"/>
+    </net>
+    <net code="51" name="ROW8">
+      <node ref="R19" pin="1" pintype="passive"/>
+      <node ref="T10" pin="1" pinfunction="In" pintype="bidirectional"/>
+    </net>
+    <net code="52" name="ROW9">
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="T11" pin="1" pinfunction="In" pintype="bidirectional"/>
+    </net>
+    <net code="53" name="ROW10">
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="T12" pin="1" pinfunction="In" pintype="bidirectional"/>
+    </net>
+    <net code="54" name="ROW11">
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="T13" pin="1" pinfunction="In" pintype="bidirectional"/>
+    </net>
+    <net code="55" name="ROW12">
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="T14" pin="1" pinfunction="In" pintype="bidirectional"/>
+    </net>
+    <net code="56" name="ROW13">
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="T15" pin="1" pinfunction="In" pintype="bidirectional"/>
+    </net>
+    <net code="57" name="SWDCLK">
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="SWDCLK" pintype="bidirectional"/>
+    </net>
+    <net code="58" name="SWDIO">
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="SWDIO" pintype="bidirectional"/>
+    </net>
+    <net code="59" name="VDDA">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="FB1" pin="1" pintype="passive"/>
+      <node ref="FB1" pin="2" pintype="passive"/>
+      <node ref="FB2" pin="1" pintype="passive"/>
+      <node ref="FB2" pin="2" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J3" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="U1" pin="21" pinfunction="VDDD" pintype="power_in"/>
+      <node ref="U1" pin="39" pinfunction="VDDD_1" pintype="power_in"/>
+      <node ref="U1" pin="40" pinfunction="VDDA" pintype="power_in"/>
+    </net>
+    <net code="60" name="XRES">
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U1" pin="36" pinfunction="XRES" pintype="bidirectional"/>
+    </net>
+    <net code="61" name="rx0">
+      <node ref="R30" pin="2" pintype="passive"/>
+      <node ref="U1" pin="35" pintype="bidirectional"/>
+    </net>
+    <net code="62" name="rx1">
+      <node ref="R29" pin="2" pintype="passive"/>
+      <node ref="U1" pin="34" pintype="bidirectional"/>
+    </net>
+    <net code="63" name="rx2">
+      <node ref="R28" pin="2" pintype="passive"/>
+      <node ref="U1" pin="33" pintype="bidirectional"/>
+    </net>
+    <net code="64" name="rx3">
+      <node ref="R27" pin="2" pintype="passive"/>
+      <node ref="U1" pin="32" pintype="bidirectional"/>
+    </net>
+    <net code="65" name="rx4">
+      <node ref="R26" pin="2" pintype="passive"/>
+      <node ref="U1" pin="31" pintype="bidirectional"/>
+    </net>
+    <net code="66" name="rx5">
+      <node ref="R25" pin="2" pintype="passive"/>
+      <node ref="U1" pin="30" pinfunction="P0[2]" pintype="bidirectional"/>
+    </net>
+    <net code="67" name="rx6">
+      <node ref="R24" pin="2" pintype="passive"/>
+      <node ref="U1" pin="29" pinfunction="P0[1]" pintype="bidirectional"/>
+    </net>
+    <net code="68" name="rx7">
+      <node ref="R23" pin="2" pintype="passive"/>
+      <node ref="U1" pin="28" pinfunction="P0[0]" pintype="bidirectional"/>
+    </net>
+    <net code="69" name="rx8">
+      <node ref="R22" pin="2" pintype="passive"/>
+      <node ref="U1" pin="23" pintype="bidirectional"/>
+    </net>
+    <net code="70" name="rx9">
+      <node ref="R21" pin="2" pintype="passive"/>
+      <node ref="U1" pin="22" pintype="bidirectional"/>
+    </net>
+    <net code="71" name="rx10">
+      <node ref="R20" pin="2" pintype="passive"/>
+      <node ref="U1" pin="20" pintype="bidirectional"/>
+    </net>
+    <net code="72" name="rx11">
+      <node ref="R19" pin="2" pintype="passive"/>
+      <node ref="U1" pin="19" pintype="bidirectional"/>
+    </net>
+    <net code="73" name="rx12">
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="U1" pin="18" pintype="bidirectional"/>
+    </net>
+    <net code="74" name="rx13">
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="U1" pin="17" pintype="bidirectional"/>
+    </net>
+    <net code="75" name="spi_clk">
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R32" pin="1" pintype="passive"/>
+    </net>
+    <net code="76" name="spi_miso">
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R33" pin="1" pintype="passive"/>
+    </net>
+    <net code="77" name="spi_mosi">
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R34" pin="1" pintype="passive"/>
+    </net>
+    <net code="78" name="spi_ss">
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="R31" pin="1" pintype="passive"/>
+    </net>
+    <net code="79" name="tx0">
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="U1" pin="46" pintype="bidirectional"/>
+    </net>
+    <net code="80" name="tx1">
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="U1" pin="47" pintype="bidirectional"/>
+    </net>
+    <net code="81" name="tx2">
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="U1" pin="48" pintype="bidirectional"/>
+    </net>
+    <net code="82" name="tx3">
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="U1" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="83" name="tx4">
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="U1" pin="2" pintype="bidirectional"/>
+    </net>
+    <net code="84" name="tx5">
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="U1" pin="3" pintype="bidirectional"/>
+    </net>
+    <net code="85" name="tx6">
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U1" pin="4" pintype="bidirectional"/>
+    </net>
+    <net code="86" name="tx7">
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U1" pin="5" pintype="bidirectional"/>
+    </net>
+    <net code="87" name="tx8">
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="U1" pin="6" pintype="bidirectional"/>
+    </net>
+    <net code="88" name="tx9">
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U1" pin="7" pintype="bidirectional"/>
+    </net>
+    <net code="89" name="tx10">
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="U1" pin="8" pintype="bidirectional"/>
+    </net>
+    <net code="90" name="tx11">
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U1" pin="9" pintype="bidirectional"/>
+    </net>
+    <net code="91" name="tx12">
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U1" pin="12" pintype="bidirectional"/>
+    </net>
+    <net code="92" name="tx13">
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U1" pin="13" pintype="bidirectional"/>
+    </net>
+    <net code="93" name="unconnected-(J1-Pad6)">
+      <node ref="J1" pin="6" pintype="no_connect"/>
+    </net>
+    <net code="94" name="unconnected-(J1-Pad7)">
+      <node ref="J1" pin="7" pintype="no_connect"/>
+    </net>
+    <net code="95" name="unconnected-(J2-Pad3)">
+      <node ref="J2" pin="3" pintype="no_connect"/>
+    </net>
+    <net code="96" name="unconnected-(J2-Pad4)">
+      <node ref="J2" pin="4" pintype="no_connect"/>
+    </net>
+    <net code="97" name="unconnected-(J3-Pad6)">
+      <node ref="J3" pin="6" pintype="no_connect"/>
+    </net>
+    <net code="98" name="unconnected-(J3-Pad7)">
+      <node ref="J3" pin="7" pintype="no_connect"/>
+    </net>
+    <net code="99" name="unconnected-(J4-Pad4)">
+      <node ref="J4" pin="4" pintype="no_connect"/>
+    </net>
+    <net code="100" name="unconnected-(J4-Pad5)">
+      <node ref="J4" pin="5" pintype="no_connect"/>
+    </net>
+    <net code="101" name="unconnected-(J5-Pad4)">
+      <node ref="J5" pin="4" pintype="no_connect"/>
+    </net>
+    <net code="102" name="unconnected-(J5-Pad5)">
+      <node ref="J5" pin="5" pintype="no_connect"/>
+    </net>
+    <net code="103" name="unconnected-(J6-Pad4)">
+      <node ref="J6" pin="4" pintype="no_connect"/>
+    </net>
+    <net code="104" name="unconnected-(J6-Pad5)">
+      <node ref="J6" pin="5" pintype="no_connect"/>
+    </net>
+    <net code="105" name="unconnected-(J7-Pad4)">
+      <node ref="J7" pin="4" pintype="no_connect"/>
+    </net>
+    <net code="106" name="unconnected-(J7-Pad5)">
+      <node ref="J7" pin="5" pintype="no_connect"/>
+    </net>
+    <net code="107" name="unconnected-(T1-Pad1)">
+      <node ref="T1" pin="1" pintype="no_connect"/>
+    </net>
+    <net code="108" name="unconnected-(T1-Pad2)">
+      <node ref="T1" pin="2" pintype="no_connect"/>
+    </net>
+    <net code="109" name="unconnected-(T1-Pad3)">
+      <node ref="T1" pin="3" pintype="no_connect"/>
+    </net>
+    <net code="110" name="unconnected-(T1-Pad4)">
+      <node ref="T1" pin="4" pintype="no_connect"/>
+    </net>
+    <net code="111" name="unconnected-(T33-Pad1)">
+      <node ref="T33" pin="1" pintype="no_connect"/>
+    </net>
+    <net code="112" name="unconnected-(T33-Pad2)">
+      <node ref="T33" pin="2" pintype="no_connect"/>
+    </net>
+    <net code="113" name="unconnected-(T33-Pad3)">
+      <node ref="T33" pin="3" pintype="no_connect"/>
+    </net>
+    <net code="114" name="unconnected-(T33-Pad4)">
+      <node ref="T33" pin="4" pintype="no_connect"/>
+    </net>
+    <net code="115" name="unconnected-(T35-Pad1)">
+      <node ref="T35" pin="1" pintype="no_connect"/>
+    </net>
+    <net code="116" name="unconnected-(T35-Pad2)">
+      <node ref="T35" pin="2" pintype="no_connect"/>
+    </net>
+    <net code="117" name="unconnected-(T35-Pad3)">
+      <node ref="T35" pin="3" pintype="no_connect"/>
+    </net>
+    <net code="118" name="unconnected-(T35-Pad4)">
+      <node ref="T35" pin="4" pintype="no_connect"/>
+    </net>
+    <net code="119" name="unconnected-(T37-Pad1)">
+      <node ref="T37" pin="1" pintype="no_connect"/>
+    </net>
+    <net code="120" name="unconnected-(T37-Pad2)">
+      <node ref="T37" pin="2" pintype="no_connect"/>
+    </net>
+    <net code="121" name="unconnected-(T37-Pad3)">
+      <node ref="T37" pin="3" pintype="no_connect"/>
+    </net>
+    <net code="122" name="unconnected-(T37-Pad4)">
+      <node ref="T37" pin="4" pintype="no_connect"/>
+    </net>
+    <net code="123" name="unconnected-(U1-Pad11)">
+      <node ref="U1" pin="11" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="124" name="unconnected-(U1-Pad15)">
+      <node ref="U1" pin="15" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="125" name="unconnected-(U1-Pad26)">
+      <node ref="U1" pin="26" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="126" name="unconnected-(U1-Pad27)">
+      <node ref="U1" pin="27" pintype="bidirectional+no_connect"/>
+    </net>
+  </nets>
+</export>

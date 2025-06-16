@@ -1,0 +1,23 @@
+(footprint "touchpadElectrode" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 0)
+  (attr smd)
+  (fp_text reference "REF**" (at 0.164063 -5.789071 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp fffed5f2-fabf-4624-9446-04e2d6eaa08f)
+  )
+  (fp_text value "touchpadelectrode" (at 0.164063 -4.289071 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 32f24d56-5e19-4683-9af8-0cf32681298b)
+  )
+  (fp_text user "${REFERENCE}" (at 0.164063 -2.789071 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp b3843111-230f-4858-af3c-6b2a8165f934)
+  )
+  (fp_poly (pts
+      (arc (start 0.082024 2.542756) (mid 0 2.576731) (end -0.082024 2.542756))
+      (arc (start -2.542756 0.082024) (mid -2.576731 0) (end -2.542756 -0.082024))
+      (arc (start -0.082024 -2.542756) (mid 0 -2.576731) (end 0.082024 -2.542756))
+      (arc (start 2.542756 -0.082024) (mid 2.576731 0) (end 2.542756 0.082024))
+    ) (layer "F.Cu") (width 0) (fill solid) (tstamp 885c6a99-ff36-4bd1-980a-88329bfd288f))
+)

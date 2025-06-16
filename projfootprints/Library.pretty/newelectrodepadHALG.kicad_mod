@@ -1,0 +1,26 @@
+(footprint "newelectrodepadHALG" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 0)
+  (attr smd)
+  (fp_text reference "REF**" (at -1.477875 -2.788875 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 0acf0288-dacc-49a9-bbbb-970ae3363b75)
+  )
+  (fp_text value "newelectrodepadHALG" (at -1.477875 -1.288875 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 5f42524f-f083-4e6d-a573-a2f1f1b6926f)
+  )
+  (fp_text user "4.504 long" (at 0.351875 -4.715125 unlocked) (layer "B.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 0c6f81bd-c1c5-488a-92a6-4a39d6c2a38b)
+  )
+  (fp_text user "${REFERENCE}" (at -1.477875 0.211125 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp b0c96dbe-533a-4540-9f54-0d3ce9e0af1b)
+  )
+  (fp_poly (pts
+      (arc (start 0 2.944525) (mid 0.070595 3.041959) (end 0.187834 3.0149))
+      (arc (start 3.085283 0.099517) (mid 3.126506 -0.000008) (end 3.085283 -0.099534))
+      (arc (start 0.149288 -2.994305) (mid 0.066659 -3.024256) (end 0 -2.966975))
+    ) (layer "F.Cu") (width 0) (fill solid) (tstamp 04fae013-ba70-4d36-a04b-c2719bd6a88a))
+)

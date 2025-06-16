@@ -1,0 +1,18 @@
+(footprint "touchpadelectrodehALF" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 0)
+  (attr smd)
+  (fp_text reference "REF**" (at 2.322375 0.14075 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp df45591f-336c-4dfa-b511-cf878c6c585a)
+  )
+  (fp_text value "touchpadelectrodehALF" (at 0.450904 -6.876125 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp e2121b1f-a86b-45e3-8ba9-322ec0126e79)
+  )
+  (fp_poly (pts
+      (arc (start 0.170068 4.366778) (mid 0.061131 4.389261) (end 0.000002 4.296334))
+      (arc (start -0.000003 -4.296716) (mid 0.061518 -4.388742) (end 0.170086 -4.367137))
+      (arc (start 4.396145 -0.141053) (mid 4.454495 -0.000183) (end 4.396146 0.140686))
+    ) (layer "B.Cu") (width 0) (fill solid) (tstamp e6e3f7e5-5152-48c6-ba36-aa9506681034))
+)

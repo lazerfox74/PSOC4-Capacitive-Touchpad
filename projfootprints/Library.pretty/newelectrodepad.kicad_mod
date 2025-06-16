@@ -1,0 +1,19 @@
+(footprint "newelectrodepad" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 0)
+  (attr smd)
+  (fp_text reference "REF**" (at -0.070375 -5.48925 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 0acf0288-dacc-49a9-bbbb-970ae3363b75)
+  )
+  (fp_text value "newelectrodepad" (at -0.070375 -3.98925 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 5f42524f-f083-4e6d-a573-a2f1f1b6926f)
+  )
+  (fp_poly (pts
+      (arc (start 2.11125 2.252) (mid 2.210775 2.210775) (end 2.252 2.11125))
+      (arc (start 2.252 -2.11125) (mid 2.210775 -2.210775) (end 2.11125 -2.252))
+      (arc (start -2.11125 -2.252) (mid -2.210775 -2.210775) (end -2.252 -2.11125))
+      (arc (start -2.252 2.11125) (mid -2.210775 2.210775) (end -2.11125 2.252))
+    ) (layer "F.Cu") (width 0) (fill solid) (tstamp c6e9808e-7eed-4162-8d2f-f2725667a051))
+)
